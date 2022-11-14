@@ -38,7 +38,7 @@ class _MyAppState extends State<MyApp> {
         home: Scaffold(
           appBar: AppBar(
             title: Text("Konverter Suhu Halda"),
-          ),
+          ),x
           body: Container(
             margin: EdgeInsets.all(8),
             child: Column(
